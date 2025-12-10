@@ -92,6 +92,8 @@
     <!-- ================================ -->
     <!-- Project version management       -->
     <!-- ================================ -->
+    <sonar.sources>src</sonar.sources>
+    <sonar.organization>pentest101</sonar.organization>
     <gs.version>3.0-SNAPSHOT</gs.version>
     <gt.version>35-SNAPSHOT</gt.version>
     <gwc.version>2.0-SNAPSHOT</gwc.version>
